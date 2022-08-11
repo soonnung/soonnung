@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 <h2>어디로 갈까요?</h2>
 <p><a href="http://www.naver.com">네이버</a></p>
 <p><a href="http://www.daum.net">다음</a></p>
-<p><a href="https://blog.naver.com/jsung206">순눙</a></p>
+<p><a href="https://blog.naver.com/jsung206">블로그</a></p>
 
 <p>
  <a href="https://blog.naver.com/jsung206">
