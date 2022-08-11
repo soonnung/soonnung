@@ -98,4 +98,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/apple-000000?style=social&logo=Burton&logoColor=#0000000">
 
 <!-- 깃허브 상태(스탭-step) 등록하기 -->
+<!-- 깃허브 테마 : dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soonnung&show_icons=true&theme=radical)
