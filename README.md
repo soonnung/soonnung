@@ -88,4 +88,4 @@ Here are some ideas to get you started:
  </a>
 </p>
 
-<img src="img.shields.io/badge/순눙-000000?style=Apple&logo=logoColor=#000000">
+<img src="img.shields.io/badge/순눙-000000?style=Apple&logo=&logoColor=#000000">
