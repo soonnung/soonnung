@@ -36,6 +36,7 @@ public class test1 {
     System.out.println("안녕하세요);
   }
 }
+```
 <!--
 </code>
 </pre>
@@ -67,7 +68,6 @@ Here are some ideas to get you started:
 </ul>
 
 <hr/>
-
 
 <h2>안녕하세요</h2>
 <ol>
