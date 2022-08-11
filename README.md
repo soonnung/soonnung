@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 
 <p>
  <a href="https://blog.naver.com/jsung206">
-  <img src="#">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGlIVuGhPw2IZkL-7POiDpJNFrW9mWl3czh_kYDvE9nJ4jMU3AFdZhNXpraDzWvN0PZmM&usqp=CAU">
  </a>
 </p>
 
