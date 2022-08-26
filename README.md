@@ -1,4 +1,4 @@
-![header](https://soonnung.vercel.app/api?type=transparent&color=auto&height=150&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=150&section=header&text=capsule%20render&fontSize=90)
 
 
 <!-- 마크다운 태그 -->
